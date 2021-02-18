@@ -1,9 +1,13 @@
-# Welcome to my corner of the internet
+# Hello There
 
-*laughs in markdown*
+![Hello there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-I code too much, spend too much time obsessing over random fandoms (I've currently fallen back into Star Wars), and like to cook (I've finally perfected restaurant style thai fried rice).
+I'm Ronak, a software engineer and entrepreneur from Southern California.
 
-I like to talk to new people, and I'm down to chat about anything, so feel free to [hit me up on Twitter](https://twitter.com/trulyronak) or [message me on facebook](https://facebook.com/trulyronak) (if we have mutual friends)
+Currently a student at [UC San Diego](https://ucsd.edu) studying Computer Science and minoring in Entrepreneurship and Innovation.
 
-You can find me online generally [@trulyronak](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Previously, I interned at [Optic (YC 18)](https://useoptic.com), the [US Digital Service](https://usds.gov), and [Zesty.io](https://zesty.io).
+
+This upcoming Spring, I'll be interning at [Hatch](https://hatchcard.com) to work on their [line of credit product](https://www.hatchcard.com/loc-launch). Later, I'll be joining [Gusto](https://gusto.com) in the summer to work on the [benefits engineering team](https://gusto.com/product/benefits).
+
+Reading Lists — [2020](https://ronakshah.org/2020-Annual-Reading-List), [2019](https://ronakshah.org/2019-Annual-Reading-List), [2018](https://ronakshah.org/2018-Annual-Reading-List)
