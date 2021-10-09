@@ -8,7 +8,7 @@ I'm currently finishing up my senior year at the **[University of California at 
 
 Recently, I started working with **[Niema Moshiri](http://niema.net/)** on a project to speed up iVar.
 
-I also helped to cofound [**ACM at UC San Diego**](https://acmucsd.com) (I ran sponsorship and created much of the initial structure of the organization), and currently help out as a PM for the [Development Team](https://github.com/acmucsd).
+I'm also helping out **[ACM at UCSD](https://acmucsd.com)** (the student organization I co-founded) as a PM for dev team projects.
 
 Previously, I've worked at [**Hatch**](https://hatchcard.com) (as part of the **[Kleiner Perkins Fellowship](https://fellows.kleinerperkins.com/meet-the-fellows/2021)**), [**Gusto**](https://gusto.com), [**Optic (YC 18)**](https://useoptic.com), the [**US Digital Service**](https://usds.gov), and [**Zesty.io**](https://zesty.io).
 
