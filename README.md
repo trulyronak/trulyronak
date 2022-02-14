@@ -12,7 +12,7 @@ I'm also helping out **[ACM at UCSD](https://acmucsd.com)** (the student organiz
 
 Previously, I've worked at [**Hatch**](https://hatchcard.com) (as part of the **[Kleiner Perkins Fellowship](https://fellows.kleinerperkins.com/meet-the-fellows/2021)**), [**Gusto**](https://gusto.com), [**Optic (YC 18)**](https://useoptic.com), the [**US Digital Service**](https://usds.gov), and [**Zesty.io**](https://zesty.io).
 
-When I graduate, I'm planning on rejoining my amazing friends at **[Hatch](https://hatchcard.com)** to help make better financial services for small businesses.
+When I graduate, I'm planning on rejoining my amazing friends at **[Nearside](https://nearside.com)** to help make better financial services for small businesses.
 
 In my spare time, I love to cook, play video games, hike, and of course, code.
 
