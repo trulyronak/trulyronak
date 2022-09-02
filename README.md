@@ -4,13 +4,16 @@
 
 I'm Ronak, a software engineer and entrepreneur from Southern California.
 
-Currently finishing up my degree at the **[University of California at San Diego](https://ucsd.edu)** and preparing to rejoin my amazing friends at **[Nearside](https://nearside.com)** to help make better financial services for small businesses.
+I recently graduated from [UC San Diego](https://ucsd.edu) with a BS in Computer Science and am to working at [Nearside](https://nearside.com) to help make better financial services for small businesses.
 
-Professionally, I've worked at [**Hatch**](https://hatchcard.com) (as part of the **[Kleiner Perkins Fellowship](https://fellows.kleinerperkins.com/meet-the-fellows/2021)**), [**Gusto**](https://gusto.com), [**Optic (YC 18)**](https://useoptic.com), the [**US Digital Service**](https://usds.gov) (as part of the **[Civic Digital Fellowship](https://codingitforward.com))**, and [**Zesty.io**](https://zesty.io).
+
+Professionally, I've worked at [**Gusto**](https://gusto.com) (as part of the **[Kleiner Perkins Fellowship](https://fellows.kleinerperkins.com/meet-the-fellows/2021)**), [**Optic (YC 18)**](https://useoptic.com), the [**US Digital Service**](https://usds.gov) (as part of the **[Civic Digital Fellowship](https://codingitforward.com))**, and [**Zesty.io**](https://zesty.io).
 
 While in college, I started **[ACM at UCSD](https://acmucsd.com)**, and helped grow it to become the largest student organization on campus. I've also been involved with doing research with **[Niema Moshiri](http://niema.net/)**, and I've also tutored CSE 100 (Advanced Data Structures) for 2 years with him.
 
-If you're a UCSD student, interested in one of my past experiences, or just want to chat, feel free to [email me](mailto:contact@ronakshah.net) or [leave me a note](http://tellmeanything.ronakshah.net).
+I'm interested in building technology that empowers others, with specific interests in financial services, health care, and public policy. I obsess over the customer experience, and want to build products that people *want* to use.
+
+You can contact me via [email](mailto:contact@ronakshah.net) or by [leaving me a note](http://tellmeanything.ronakshah.net).
 
 In my spare time, I love to cook, play video games, read, and of course, code.
 
