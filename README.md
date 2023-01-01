@@ -17,4 +17,4 @@ You can contact me via [email](mailto:contact@ronakshah.net) or by [leaving me a
 
 In my spare time, I love to cook, play video games, read, and of course, code.
 
-Reading Lists — [2021](https://ronakshah.org/2021-Annual-Reading-List), [2020](https://ronakshah.org/2020-Annual-Reading-List), [2019](https://ronakshah.org/2019-Annual-Reading-List), [2018](https://ronakshah.org/2018-Annual-Reading-List)
+Reading Lists — [2022](https://ronakshah.org/2022-Annual-Reading-List), [2021](https://ronakshah.org/2021-Annual-Reading-List), [2020](https://ronakshah.org/2020-Annual-Reading-List), [2019](https://ronakshah.org/2019-Annual-Reading-List), [2018](https://ronakshah.org/2018-Annual-Reading-List)
