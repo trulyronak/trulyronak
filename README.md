@@ -4,10 +4,10 @@
 
 I'm Ronak, a software engineer and entrepreneur from Southern California.
 
-I recently graduated from [UC San Diego](https://ucsd.edu) with a BS in Computer Science and am working at [Watershed](https://watershed.com) to help companies reduce their carbon emissions.
+I recently graduated from [UC San Diego](https://ucsd.edu) with a BS in Computer Science and am building something [new](https://aurium.ai).
 
 
-Professionally, I've worked at [**Nearside**](https://nearside.com) and [**Gusto**](https://gusto.com) (as part of the **[Kleiner Perkins Fellowship](https://fellows.kleinerperkins.com/meet-the-fellows/2021)**), [**Optic (YC 18)**](https://useoptic.com), the [**US Digital Service**](https://usds.gov) (as part of the **[Civic Digital Fellowship](https://codingitforward.com))**, and [**Zesty.io**](https://zesty.io).
+Professionally, I've worked at [Watershed](https://watershed.com), [**Nearside**](https://nearside.com) and [**Gusto**](https://gusto.com) (as part of the **[Kleiner Perkins Fellowship](https://fellows.kleinerperkins.com/meet-the-fellows/2021)**), [**Optic (YC 18)**](https://useoptic.com), the [**US Digital Service**](https://usds.gov) (as part of the **[Civic Digital Fellowship](https://codingitforward.com))**, and [**Zesty.io**](https://zesty.io).
 
 While in college, I started **[ACM at UCSD](https://acmucsd.com)**, and helped grow it to become the largest student organization on campus. I've also been involved with doing research with **[Niema Moshiri](http://niema.net/)**, and I've also tutored CSE 100 (Advanced Data Structures) for 2 years with him.
 
