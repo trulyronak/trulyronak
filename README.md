@@ -4,7 +4,7 @@
 
 I'm Ronak, a software engineer and entrepreneur from Southern California.
 
-I recently graduated from [UC San Diego](https://ucsd.edu) with a BS in Computer Science and am building something [new](https://aurium.ai).
+I recently graduated from [UC San Diego](https://ucsd.edu) with a BS in Computer Science and am building something [new](https://radblueco.com).
 
 
 Professionally, I've worked at [Watershed](https://watershed.com), [**Nearside**](https://nearside.com) and [**Gusto**](https://gusto.com) (as part of the **[Kleiner Perkins Fellowship](https://fellows.kleinerperkins.com/meet-the-fellows/2021)**), [**Optic (YC 18)**](https://useoptic.com), the [**US Digital Service**](https://usds.gov) (as part of the **[Civic Digital Fellowship](https://codingitforward.com))**, and [**Zesty.io**](https://zesty.io).
